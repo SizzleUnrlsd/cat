@@ -1,0 +1,3 @@
+/home/hugo/Public_repo/cat/build/CMakeFiles/cat.dir
+/home/hugo/Public_repo/cat/build/CMakeFiles/edit_cache.dir
+/home/hugo/Public_repo/cat/build/CMakeFiles/rebuild_cache.dir
