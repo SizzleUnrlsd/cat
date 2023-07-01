@@ -38,7 +38,7 @@ void processBuffer(std::queue<std::string> &optionArgs, std::stringstream &buffe
         if (showEnds && i < lines.size() - 1) {
             std::cout << "$";
         }
-        if(i != lines.size() - 1) {
+        if (i != lines.size() - 1) {
             std::cout << "\n";
         }
     }
